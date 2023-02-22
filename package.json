@@ -1,0 +1,21 @@
+{
+  "name": "vue2-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@oslokommune/punkt-assets": "*",
+    "@oslokommune/punkt-css": "*",
+    "@oslokommune/punkt-vue2": "*",
+    "@vitejs/plugin-vue2": "^2.2.0",
+    "vue": "^2.7.14"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "sass": "^1.54.9",
+    "vite": "^4.1.1"
+  }
+}
