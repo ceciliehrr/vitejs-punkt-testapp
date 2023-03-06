@@ -9,9 +9,15 @@
       <span class="pkt-btn__text">CSS-knapp</span>
     </button>
     <br />
+    <button class="pkt-btn pkt-btn--icon-left">
+      <svg class="pkt-btn__icon"><use href="#user"></use></svg>
+      <span class="pkt-btn__text">CSS icon-left</span>
+    </button>
+    </br>
     <pkt-button skin="secondary" variant="icon-left" iconName="user"
       >Vue-knapp</pkt-button
     >
+
     <table class="pkt-table mt-size-20 mb-size-30">
       <thead>
         <tr>
