@@ -6,9 +6,12 @@
       {{ randomText }}
     </p>
     <button class="pkt-btn pkt-btn--label-only">
-      <span class="pkt-btn__text">Knappen</span>
+      <span class="pkt-btn__text">CSS-knapp</span>
     </button>
-
+    <br />
+    <pkt-button skin="secondary" variant="icon-left" iconName="user"
+      >Vue-knapp</pkt-button
+    >
     <table class="pkt-table mt-size-20 mb-size-30">
       <thead>
         <tr>
