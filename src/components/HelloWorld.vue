@@ -6,7 +6,7 @@
       {{ randomText }}
     </p>
     <button class="pkt-btn pkt-btn--label-only">
-      <span class="pkt-btn__text">CSS-knapp</span>
+      <span class="pkt-btn__text">CSS-knapp label only</span>
     </button>
     <br />
     <button class="pkt-btn pkt-btn--icon-left">
