@@ -39,10 +39,12 @@ p {
 }
 // Legg til egne klasser for andre farger
 
-.pkt-btn--primary-confirm{
+.pkt-btn--primary-confirm {
   background-color: var(--color-green);
+  color: var(--color-blue-dark);
+  border-color: var(--color-green);
 }
 
-.pkt-btn--yellow-stroke{
+.pkt-btn--yellow-stroke {
   border-color: var(--color-yellow);
 }
