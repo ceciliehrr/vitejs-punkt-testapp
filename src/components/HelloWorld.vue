@@ -5,16 +5,18 @@
     <p>
       {{ randomText }}
     </p>
-    <button class="pkt-btn pkt-btn--label-only">
-      <span class="pkt-btn__text">CSS-knapp label only</span>
-    </button>
-    <br />
-    <button class="pkt-btn pkt-btn--icon-left">
+        <button class="pkt-btn pkt-btn--icon-left">
       <svg class="pkt-btn__icon"><use href="#user"></use></svg>
       <span class="pkt-btn__text">CSS icon-left</span>
     </button>
+    <p>Ønsker du andre farger på buttons kan du lage egne klasser til å legge til styling. Se vår dokumentasjon på buttons for hvilken farger som er anbefalt.</p>
+    <button class="pkt-btn pkt-btn--label-only pkt-btn--primary-confirm">
+      <span class="pkt-btn__text">CSS-knapp label only</span>
+    </button>
+    <br />
+
     </br>
-    <pkt-button skin="secondary" variant="icon-left" iconName="user"
+    <pkt-button class="pkt-btn--yellow-stroke" skin="secondary" variant="icon-left" iconName="user"
       >Vue-knapp</pkt-button
     >
 

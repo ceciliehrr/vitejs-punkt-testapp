@@ -11,6 +11,8 @@
     "@oslokommune/punkt-css": "*",
     "@oslokommune/punkt-vue2": "*",
     "@vitejs/plugin-vue2": "^2.2.0",
+    "node": "^19.8.1",
+    "upgrade": "^1.1.0",
     "vue": "^2.7.14"
   },
   "devDependencies": {

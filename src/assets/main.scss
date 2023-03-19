@@ -33,3 +33,16 @@ p {
 .pkt-table {
   max-width: 850px;
 }
+
+.pkt-btn {
+  margin: 6px 0;
+}
+// Legg til egne klasser for andre farger
+
+.pkt-btn--primary-confirm{
+  background-color: var(--color-green);
+}
+
+.pkt-btn--yellow-stroke{
+  border-color: var(--color-yellow);
+}
