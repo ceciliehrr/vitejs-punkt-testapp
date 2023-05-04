@@ -7,9 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@oslokommune/punkt-assets": "*",
-    "@oslokommune/punkt-css": "*",
-    "@oslokommune/punkt-vue2": "*",
+    "@oslokommune/punkt-assets": "^3.1.0",
+    "@oslokommune/punkt-css": "^3.3.1",
+    "@oslokommune/punkt-vue2": "^3.3.1",
     "@vitejs/plugin-vue2": "^2.2.0",
     "node": "^19.8.1",
     "upgrade": "^1.1.0",

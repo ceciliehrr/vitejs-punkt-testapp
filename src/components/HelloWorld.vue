@@ -10,7 +10,7 @@
       <span class="pkt-btn__text">CSS icon-left</span>
     </button>
     <p>Ønsker du andre farger på buttons kan du lage egne klasser til å legge til styling. Se vår dokumentasjon på buttons for hvilken farger som er anbefalt.</p>
-    <button class="pkt-btn pkt-btn--label-only pkt-btn--primary-confirm">
+    <button class="pkt-btn pkt-btn--label-only pkt-btn--primary">
       <span class="pkt-btn__text">CSS-knapp label only</span>
     </button>
     <br />
