@@ -5,7 +5,7 @@
       <HelloWorld />
       <Icons />
     </div>
-    <pkt-footer class="page-footer" :links="links"></pkt-footer>
+    <pkt-footer-simple></pkt-footer-simple>
   </div>
 </template>
 

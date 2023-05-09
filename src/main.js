@@ -4,7 +4,7 @@ import './assets/main.scss';
 //import PktVue from "@oslokommune/punkt-vue2";
 import {
   PktHeader,
-  PktFooter,
+  PktFooterSimple,
   PktIcon,
   PktButton,
 } from '@oslokommune/punkt-vue2';
@@ -12,7 +12,7 @@ import { faker } from '@faker-js/faker';
 
 // Importerer enkeltkomponenter
 Vue.component('pkt-header', PktHeader);
-Vue.component('pkt-footer', PktFooter);
+Vue.component('pkt-footer-simple', PktFooterSimple);
 Vue.component('pkt-button', PktButton);
 Vue.component('pkt-icon', PktIcon); // for ikoner
 
