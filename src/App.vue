@@ -5,7 +5,7 @@
       <HelloWorld />
       <Icons />
     </div>
-    <pkt-footer-simple></pkt-footer-simple>
+    <pkt-footer-simple />
   </div>
 </template>
 
