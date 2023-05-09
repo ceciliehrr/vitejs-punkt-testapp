@@ -5,7 +5,7 @@
       <HelloWorld />
       <Icons />
     </div>
-    <pkt-footer-simple />
+    <pkt-footer-simple :links="links" />
   </div>
 </template>
 
@@ -20,8 +20,8 @@ export default {
   data() {
     return {
       links: [
-        { text: 'Kontakt', href: '#' },
-        { text: 'Personvern og informasjonskapsler', href: '#' },
+        { text: 'Testlenke', href: '#' },
+        { text: 'Testlenke 2', href: '#' },
       ],
     };
   },
