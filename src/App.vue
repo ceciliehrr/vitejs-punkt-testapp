@@ -20,7 +20,12 @@ export default {
   data() {
     return {
       links: [
-        { text: 'Testlenke', href: '#' },
+        {
+          text: 'Testlenke',
+          href: 'https://www.example.com',
+          external: 'true',
+          openInNewTab: 'true',
+        },
         { text: 'Testlenke 2', href: '#' },
       ],
     };
