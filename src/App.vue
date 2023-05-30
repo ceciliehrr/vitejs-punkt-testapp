@@ -11,11 +11,10 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue';
-import Icons from './components/Icons.vue';
+
 export default {
   components: {
-    HelloWorld,
-    Icons,
+    HelloWorld
   },
   data() {
     return {
