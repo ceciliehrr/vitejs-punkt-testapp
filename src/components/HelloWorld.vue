@@ -19,7 +19,10 @@
     <pkt-button class="pkt-btn--yellow-stroke" skin="secondary" variant="icon-left" iconName="user"
       >Vue-knapp</pkt-button
     >
-
+<h2 class="pkt-txt-32">Ikonkomponent</h2>
+<pkt-icon name="oslologo" class="pkt-icon pkt-icon--large" path="https://punkt-cdn.oslo.kommune.no/latest/logos/"></pkt-icon>
+<br />
+<pkt-icon name="user" class="pkt-icon pkt-icon--medium"></pkt-icon>
     <table class="pkt-table mt-size-20 mb-size-30">
       <thead>
         <tr>
