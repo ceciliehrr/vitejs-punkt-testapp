@@ -48,3 +48,8 @@ p {
 .pkt-btn--yellow-stroke {
   border-color: var(--color-yellow);
 }
+
+// Endre ikonfarge
+  .red-icon > svg {
+    --fg-color: red;
+  }
